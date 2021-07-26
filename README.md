@@ -7,7 +7,8 @@ Creates new nuxtjs project which has the following requirements:
 - Axios 
 - Creates a new page named Profile 
 - Load list data from Profile
-- Load the specific Profile by its id from the apis /api/profiles/{id}
+- Creates a new page named ProfileDetail
+- Load the specific Profile by its id
 - Enduser is able to copy the link /profile?id=<id> and paste to the other browser to load Profile detail. (server side rendering).
 
  
