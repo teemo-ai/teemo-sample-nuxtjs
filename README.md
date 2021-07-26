@@ -14,7 +14,7 @@ Creates new nuxtjs project which has the following requirements:
  
  ## APIs detail
   Get all Profile: https://api.twinci.io/tests
-  Get Profile by its it: https://api.twinci.io/tests/<id> 
+  Get Profile by its it: https://api.twinci.io/tests/{id}
   
   
  ## Deploy to Heroku
